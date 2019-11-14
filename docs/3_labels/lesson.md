@@ -42,6 +42,7 @@ Takes a string of one or more ids of elements that themselves provide a label
 </div>
 ```
 ```html
+//read auto
 <div role="main" aria-labelledby="foo">
     <h1 id="foo">
         Wildfires spread across the San Diego Hills
